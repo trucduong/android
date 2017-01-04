@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MySeller</string>
+    <string name="action_settings">San Pham</string>
+    <string name="title_activity_san_pham">San Pham</string>
+</resources>

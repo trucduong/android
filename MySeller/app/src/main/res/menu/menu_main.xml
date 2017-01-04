@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.trucduong.myseller.MainActivity">
+    <item
+        android:id="@+id/action_SanPham"
+        android:orderInCategory="10"
+        android:title="San Pham"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_NhomSanPham"
+        android:orderInCategory="20"
+        android:title="Nhom San Pham"
+        app:showAsAction="never" />
+</menu>
